@@ -68,7 +68,7 @@ Watch the complete working demo on YouTube:
 
 **Vagish Bhardwaj**  
 B.Tech, IIIT Kottayam 
-IoT Enthusiast | Developer | Innovator
+
 
 [LinkedIn](https://www.linkedin.com/in/vagish-bhardwaj-115089252/) • [GitHub](https://github.com/unfilteredd)
 
